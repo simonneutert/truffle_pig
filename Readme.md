@@ -2,9 +2,20 @@
 
 > I'm a little piggy, here's my snout!
 
-## Metaphor
+## Rationale
 
-A (truffle-ruby) swine munching data, turning it into something useful to feed its many piglets.
+TruffleRuby, the mythical beast. I never dared to lay hands upon. Yet, ASDF-VM ploughed through the else tedious installation.
+
+What's better than having code snip you can run on MRI and on Truffle and get a feel for it yourself?  
+Here we are!
+
+## Story Time
+
+| Story                                    | Explanation             |
+| ---------------------------------------- | ----------------------- |
+| A swine munching truffles,               | Data                    |
+| chews, swallow, digests them,            | Processing concurrently |
+| turning the truffles into wonderful ham. | Data                    |
 
 ## Example
 
